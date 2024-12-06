@@ -6,7 +6,7 @@ layout: base.liquid
 Accompagner des enfants autistes en tant qu’éducatrice a été une possibilité de carrière que j’avais envisagée un temps. Ce métier me semblait intéressant, mêlant accompagnement humain et pédagogie adaptée. Cependant, mon parcours m’a finalement orientée vers l’informatique, un domaine où j’ai trouvé ma place. Bien que cette idée soit restée en arrière-plan, elle m’a toujours semblé digne d’intérêt. Pour mieux comprendre ce qu’aurait impliqué ce métier, je propose une réflexion sur ses spécificités, en posant la question suivante : quelles sont les compétences et les missions clés du rôle d’éducatrice auprès d’enfants autistes ?
 
 <section>
-    <img src="https://github.com/ImSumire/Educator-for-Young-Autistic-Children/blob/main/assets/images/cloud.png?raw=true"></img>
+    <img src="assets/images/cloud.png?raw=true"></img>
     <p>
         Ce nuage de mots a été généré en rassemblant des termes clés autour de ce sujet. Parmi ces mots figurent écoute, soutien, TSA, progrès, gestion et adaptation. Ces termes reflètent les notions centrales et les compétences essentielles pour aborder ce domaine. <a href="https://wordart.com/">WordArt</a>
     </p>
@@ -16,7 +16,7 @@ Accompagner des enfants autistes en tant qu’éducatrice a été une possibilit
 
 <article>
 <section>
-    <img src="https://github.com/ImSumire/Educator-for-Young-Autistic-Children/blob/main/assets/images/L'autisme%20expliqu%C3%A9%20aux%20non%20autistes.jpg?raw=true"></img>
+    <img src="assets/images/L'autisme%20expliqu%C3%A9%20aux%20non%20autistes.jpg?raw=true"></img>
     <p>
         Couverture du livre L'autisme expliqué aux non-autistes de Brigitte Harrisson et Lise St-Charles, un ouvrage essentiel pour comprendre le fonctionnement des personnes autistes. Consulté il y a un an et demi, ce livre m’a offert des clés pour mieux appréhender leurs réalités. <a href="https://www.fnac.com/a13958572/Brigitte-Harrison-L-autisme-explique-aux-non-autistes">Fnac</a>
     </p>
@@ -31,7 +31,7 @@ Comprendre ces particularités est crucial, non seulement pour les éducateurs, 
 
 <article>
 <section>
-    <img src="https://github.com/ImSumire/Educator-for-Young-Autistic-Children/blob/main/assets/images/inserm.png?raw=true"></img>
+    <img src="assets/images/inserm.png?raw=true"></img>
     <p>
         Article de l’Inserm sur les troubles du spectre de l’autisme (TSA), une synthèse riche qui éclaire les mécanismes neurodéveloppementaux et les enjeux de dépistage et d’accompagnement. Une lecture marquante pour comprendre ce handicap complexe et ses réalités multiples. <a href="https://www.inserm.fr/dossier/autisme/">Inserm</a>
     </p>
@@ -46,7 +46,7 @@ Ce dossier insiste sur l’importance d’un dépistage précoce et d’un accom
 
 <article>
 <section>
-    <img src="https://github.com/ImSumire/Educator-for-Young-Autistic-Children/blob/main/assets/images/autisme-france.png?raw=true"></img>
+    <img src="assets/images/autisme-france.png?raw=true"></img>
     <p>
         Autisme France : une association qui milite pour les droits des personnes autistes, soutient leurs familles et promeut des pratiques éducatives et médicales adaptées. Un réseau engagé pour une société plus inclusive et équitable. <a href="https://www.autisme-france.fr/">Autisme France</a>
     </p>
@@ -60,7 +60,7 @@ Ce travail, fondé sur des valeurs d’exigence et de solidarité, contribue à 
 
 <article>
 <section>
-    <img src="https://github.com/ImSumire/Educator-for-Young-Autistic-Children/blob/main/assets/images/leguidedesmetiers.png?raw=true"></img>
+    <img src="assets/images/leguidedesmetiers.png?raw=true"></img>
     <p>
         Éducateur spécialisé pour jeunes enfants autistes : un métier de vocation, de patience et de collaboration pour soutenir le développement et l’inclusion des enfants avec TSA. <a href="https://www.leguidedesmetiers.fr/fr/metier/educateur-specialise-educatrice-specialisee-jeunes-enfants-autistes">LeGuideDesMetiers</a>
     </p>
